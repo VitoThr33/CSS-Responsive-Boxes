@@ -59,7 +59,7 @@ body {
   margin: 5px;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 600px){
   .container {
     flex-direction: row;
     flex-wrap: wrap;
@@ -98,3 +98,4 @@ body {
   height: 65vh;
   margin-top: -31.78vh;
   }
+}

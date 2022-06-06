@@ -72,7 +72,7 @@ body {
   margin: 5px;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 600px)  {
   .container {
     flex-direction: row;
     flex-wrap: wrap;
@@ -88,11 +88,11 @@ body {
     
   }
   .b {
-    max-width: 25%;
+    max-width: 20%;
   min-height: 32.6vh;
   }
 .c {
-    max-width: 25%;
+    max-width: 24%;
     min-height: 32.6vh;
   }
 
@@ -104,12 +104,12 @@ body {
 }
 
 .e {
-  max-width: 25%;
+  max-width: 20%;
   min-height: 32.6vh;
 }
 
 .f {
-  max-width: 25%;
+  max-width: 24%;
   min-height: 32.6vh;
   }
   .g {
@@ -119,8 +119,9 @@ body {
     }
  .h{
   max-width: 22%;
-  height: 861px;
+  height: 66.6vh;
   margin-top: -33vh;
   margin-bottom: 1vh;
   
- }   
+ }
+}
